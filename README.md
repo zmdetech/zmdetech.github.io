@@ -1,32 +1,27 @@
-Freelancer Jekyll theme  
+ZMDE Github Repo  
 =========================
 
-Jekyll theme based on [Freelancer bootstrap theme ](http://startbootstrap.com/template-overviews/freelancer/)
+Welcome to ZMDE Github Repo
 
-## How to use
- - Place a image in `/img/portfolio/`
- - Replace `your-email@domain.com` in `_config.yml` with your email address. Refer to [formspree](http://formspree.io/) for more information.
- - Create posts to display your projects. Use the follow as an example:
-```txt
----
-layout: default
-modal-id: 1
-date: 2020-01-18
-img: cabin.png
-alt: image-alt
-project-date: January 2020
-client: The Client
-category: Web Development
-description: The description of the project
+## About Us
+We integrate R&D, manufacturing, sales, and service, with expertise in intelligent H/T beam constructural production line and machines, Industry IoT, and control systems
 
----
-```
+## Website
+Visit Our Website [ZMDE Steel Machinery](https://www.zmdetech.com)
 
-## Demo
-View this jekyll theme in action [here](https://jeromelachaud.com/freelancer-theme)
+## Email
+Email us at [export.zmde@zmdetech.com](mailto:export.zmde@zmdetech.com)
 
-## Screenshot
-![screenshot](https://raw.githubusercontent.com/jeromelachaud/freelancer-theme/master/screenshot.png)
+## Whatsapp
+Send a message [WhatsApp](https://wa.me/8618005365092)
 
----------
-For more details, read the [documentation](http://jekyllrb.com/)
+## Follow Us on Social Media
+
+[![Twitter](https://img.icons8.com/color/48/000000/twitter.png)](https://x.com/zmdemachinery)
+[![Facebook](https://img.icons8.com/color/48/000000/facebook-new.png)](https://facebook.com/zmdemachinery)
+[![Instagram](https://img.icons8.com/color/48/000000/instagram-new.png)](https://www.zmdetech.com)
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/company/zmde-tech)
+[![TikTok](https://img.icons8.com/color/48/000000/tiktok.png)](https://www.tiktok.com/@zmdetech)
+[![YouTube](https://img.icons8.com/color/48/000000/youtube-play.png)](https://www.youtube.com/@ZMDE-TECH)
+
+
