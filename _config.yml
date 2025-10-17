@@ -1,11 +1,11 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
-url: https://github.com/jeromelachaud/freelancer-theme
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+title: ZMDE Steel Machinery
+email: export.zmde@zmdetech.com
+url: https://zmde.github.io
+description: "We integrate R&D, manufacturing, sales, and service, with expertise in intelligent H/T beam constructural production line and machines, Industry IoT, and control systems"
+keywords: "ZMDE, Steel Fabrication, PEB, Prefabricated Building, Pre Engineered Building, Structure Steel"
+skills: "Machine Manufacturing"
+meta_author: ZMDE Machinery
 
 # Google webmaster tools
 google_verify:
@@ -21,7 +21,7 @@ contact: static
 
 # If you use disqus you need disqus shortname
 # https://help.disqus.com/customer/portal/articles/466208
-disqus_shortname: myshortname
+# disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -32,7 +32,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: ZMDE
   location: Location
   social: Around the Web
   credits: Credits
@@ -40,23 +40,23 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: https://x.com/zmdemachinery
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+    url: https://facebook.com/zmdemachinery
+  - title: linkedin
+    url: https://www.linkedin.com/company/zmde-tech
+  - title: Tiktok
+    url: https://www.tiktok.com/@zmdetech
+  - title: youtube
+    url: https://www.youtube.com/@ZMDE-TECH
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 999 Yunjuan Road, China (Shanghai) Pilot Free Trade Zone
+  - line: Lin-gang Special Area, Shanghai China
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'ZMDE's Official website <a href="https://www.zmdetech.com">ZMDE Steel Machinery</a>.'
 
 # Build settings
 markdown: kramdown
