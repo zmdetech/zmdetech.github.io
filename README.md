@@ -23,5 +23,3 @@ Send a message [WhatsApp](https://wa.me/8618005365092)
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/company/zmde-tech)
 [![TikTok](https://img.icons8.com/color/48/000000/tiktok.png)](https://www.tiktok.com/@zmdetech)
 [![YouTube](https://img.icons8.com/color/48/000000/youtube-play.png)](https://www.youtube.com/@ZMDE-TECH)
-
-
