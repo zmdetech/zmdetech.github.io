@@ -56,7 +56,7 @@ address:
   - line: Lin-gang Special Area, Shanghai China
 
 # Credits content
-credits: 'ZMDE Official website <a href="https://www.zmdetech.com">ZMDE Steel Machinery></a>.'
+credits: 'ZMDE Official website <a href="https://www.zmdetech.com">ZMDE Steel Machinery</a>.'
 
 # Build settings
 markdown: kramdown
