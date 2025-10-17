@@ -45,7 +45,7 @@ social:
     url: https://facebook.com/zmdemachinery
   - title: linkedin
     url: https://www.linkedin.com/company/zmde-tech
-  - title: Tiktok
+  - title: tiktok
     url: https://www.tiktok.com/@zmdetech
   - title: youtube
     url: https://www.youtube.com/@ZMDE-TECH
@@ -56,7 +56,7 @@ address:
   - line: Lin-gang Special Area, Shanghai China
 
 # Credits content
-credits: 'ZMDE's Official website <a href="https://www.zmdetech.com">ZMDE Steel Machinery</a>.'
+credits: 'ZMDE Official website <a href="https://www.zmdetech.com">ZMDE Steel Machinery></a>.'
 
 # Build settings
 markdown: kramdown
